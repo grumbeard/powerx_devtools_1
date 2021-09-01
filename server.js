@@ -19,4 +19,5 @@ server.listen(port, host, () => {
     console.log(`Server is running on http://${host}:${port}`);
 });
 
+// COMMENT 1
 // COMMENT 2
